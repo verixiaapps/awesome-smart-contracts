@@ -109,7 +109,7 @@ First batch of supported languages is ready for production use. Second is partia
 
 Docs:
  * [docs.neo.org/en-us/sc/introduction.html](http://docs.neo.org/en-us/sc/introduction.html)
-- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
  
 Contract examples:
  * https://github.com/neo-project/examples-csharp
